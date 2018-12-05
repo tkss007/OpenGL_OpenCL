@@ -1,0 +1,4 @@
+﻿  mengz-project7A.cpp
+c:\users\tkss\desktop\cs575final\cs575project7a-zhouxiangmeng\glui.h(758): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  NewVS2015B.vcxproj -> C:\Users\tkss\Desktop\CS575Final\CS575Project7A-ZhouxiangMeng\Debug\cs575project7A.exe
+  NewVS2015B.vcxproj -> C:\Users\tkss\Desktop\CS575Final\CS575Project7A-ZhouxiangMeng\Debug\cs575project7A.pdb (Partial PDB)
